@@ -1,0 +1,9 @@
+.content {
+  padding-left: 230px;
+}
+
+@media only screen and (max-width: 1280px) {
+  .content {
+    padding-left: 0px;
+  }
+}
